@@ -1,6 +1,11 @@
 Discord Volume
 ==============
 
+# Obsolete and no longer works!
+See [this gist](https://gist.github.com/davejbax/42abae54865f2ba1e3c649c7949fbbe1) for an alternative
+
+## What is (was) this?
+
 This is a C# application that allows you to adjust the volume of specific users in Discord **above the 200% limit**.
 
 ## Why?
